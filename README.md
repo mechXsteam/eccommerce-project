@@ -20,7 +20,7 @@ providing a convenient and efficient shopping solution.
 
 # Installation guide
 
-> `ecom-project` directory handles the logic for the front end and the `ecommProject` handles directory handles the
+> `ecom-project` directory handles the logic for the front end and the `ecommProject` handles the
 > logic for the backend. Sorry! for the weird
 > naming conventions :).
 
